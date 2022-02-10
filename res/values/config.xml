@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!--related to operators, may be covered by feature_config-->
+   <bool name="operator_support">false</bool>
+</resources>
